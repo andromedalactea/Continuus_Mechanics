@@ -6,9 +6,7 @@ Course results, shown from the figures in [`figures/`](figures).
 
 Particles in a box. [Notebook](Homeworks/MCON_Tarea1_ModeloNumericoDeUnGas.ipynb).
 
-<video src="figures/ideal_gas_simulation.mp4" controls width="640"></video>
-
-[ideal_gas_simulation.mp4](figures/ideal_gas_simulation.mp4)
+![Ideal gas particles in a box](figures/ideal_gas_simulation.gif)
 
 ## Atmosphere
 
@@ -36,6 +34,4 @@ Shear on three faces of a block, and Young’s modulus \(E\) with Poisson’s ra
 
 SPH particles falling into a star. [Notebook](Homeworks/Cuaderno_MCON_CFDEjemploSPH_Clase_2024_1.ipynb).
 
-<video src="figures/gravitational_collapse.mp4" controls width="640"></video>
-
-[gravitational_collapse.mp4](figures/gravitational_collapse.mp4)
+![SPH particles collapsing into a star](figures/gravitational_collapse.gif)
